@@ -1,7 +1,7 @@
 
+a=[23,34,45,23,32]
 
-col_num=10
+print(a)
+a.sort()
 
-print(range(col_num))
-print(list(range(col_num)))
-
+print(a)
